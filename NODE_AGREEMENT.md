@@ -6,10 +6,10 @@ The entity accountable for the deployment of the nodes will be ___NAME_OF_THE_EN
 
 We hereby declare that we have read and agree with the [Terms and Conditions for LACChain Test Networks for Writer Nodes](https://github.com/lacchain/pantheon-network/blob/master/TERMS_AND_COND_WRITER_NODE.md), and the [Terms and Conditions for LACChain Test Networks for Validator Nodes](https://github.com/lacchain/pantheon-network/blob/master/TERMS_AND_COND_VAL_NODE.md).  
 
-Signature:
+Signature: Adrian Jimenez Valverde
 
-Name:
+Name: Adrian Jimenez
 
-Date:
+Date: 2/12/2020
 
-Place:
+Place: San Jose Costa Rica
